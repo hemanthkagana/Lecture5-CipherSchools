@@ -23,7 +23,7 @@ public class PrimitiveDT{
         float f2 = 5.5f;
         char ch = 'a';
         System.out.println(ch);
-        int z = x+y;
+        int z = x+y; //x and y are operands, "=" is an operator
 
         int m = 5;
         int n = m++;
